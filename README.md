@@ -3,7 +3,7 @@ Gulp experiment
 
 Experiment comparing Gulp with Grunt
 
-#### Installation
+## Installation
 Run the commands below in the project root directory.
 #####1. Install Grunt and Bower
 
