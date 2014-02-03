@@ -5,7 +5,7 @@ Experiment comparing Gulp with Grunt
 
 ## Installation
 Run the commands below in the project root directory.
-#####1. Install Grunt and Bower
+#####1. Install Gulp globally
 
     $ sudo npm install -g gulp
     
