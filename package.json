@@ -1,0 +1,7 @@
+{
+  "name": "gulp-experiment",
+  "devDependencies": {
+    "gulp-util": "~2.2.14",
+    "gulp": "~3.4.0"
+  }
+}
