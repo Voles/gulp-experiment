@@ -28,3 +28,9 @@ gulp.task('js', function () {
     .pipe(gulp.dest('dist/js'));
 });
 
+gulp.task('watch', function () {
+  var watcher = gulp.watch('src/less/*.less', function (event) {
+    gulp.start('css');
+  });
+});
+
